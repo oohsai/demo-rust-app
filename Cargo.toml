@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["oohsai <s72454726@gmail.com>"]
 edition = "2021"
 build = "build.rs"
+description = "A demo app to understand rust and that divides income"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -15,4 +16,4 @@ slint-build = "1.5"
 
 [package.metadata.bundle]
 name = "Income Divider"
-identifier = "io.github.oohsai."
+identifier = "io.github.oohsai.demo-rust-app"
